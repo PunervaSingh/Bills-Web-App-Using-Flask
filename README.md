@@ -51,7 +51,7 @@ What a user can do:
 
 Contributors names and contact info :
 
-Punerva Singh(Frontend Development)<br> 
+Punerva Singh<br> 
 [@Linkedin](https://www.linkedin.com/in/punerva-singh-958305204)
 <br>
 [@Github](https://github.com/punervasingh)
@@ -59,21 +59,21 @@ Punerva Singh(Frontend Development)<br>
 
 
 
-Nayan Raina Kaul(Database Management)<br>
+Nayan Raina Kaul<br>
 [@Linkedin](http://linkedin.com/in/nayan-raina-kaul-905812202)
 <br>
 [@Github](https://github.com/nayanrainakaul)
 <br>
 
 
-Aakansha Kumari(Frontend Development)<br>
+Aakansha Kumari<br>
 [@Linkedin](https://www.linkedin.com/in/aakanksha-kumari-64013a210)
 <br>
 [@Github](https://github.com/aakanksha-198)
 <br>
 
 
-Apoorva Verma(Backend Development)<br>
+Apoorva Verma<br>
 [@Linkedin](https://www.linkedin.com/in/apoorva-verma-aa045a202/)
 <br>
 [@Github](https://github.com/apoorva-01)
