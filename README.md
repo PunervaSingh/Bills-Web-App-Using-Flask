@@ -2,7 +2,7 @@
 
 It's a web application based on flask framework(including Celery and Redis for background Functions) which 
 helps you in reminding your bill's payment by sending you an email before its due date to avoid extra fee.
-[Website Link](https://priceless-johnson-639019.netlify.app/)
+[Website Link](https://bills-reminder-app.herokuapp.com/)
 
 ## Description
 
